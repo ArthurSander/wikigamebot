@@ -1,5 +1,5 @@
-# wikigamebot
-The WikiGame Bot for Discord
+# WikiGame Bot
+The WikiGame Bot for Discord!
 
 # Basic Commands
 
